@@ -1,6 +1,6 @@
 import { Server } from "socket.io";
 
-const PORT = process.env.WS_PORT ? parseInt(process.env.WS_PORT) : 3002;
+const PORT = process.env.WS_PORT ? parseInt(process.env.WS_PORT) : 3001;
 const HEARTBEAT_INTERVAL = process.env.WS_HEARTBEAT_INTERVAL
   ? parseInt(process.env.WS_HEARTBEAT_INTERVAL)
   : 5000;

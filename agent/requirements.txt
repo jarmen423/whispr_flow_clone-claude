@@ -1,0 +1,7 @@
+pynput==1.7.6
+sounddevice==0.4.6
+scipy==1.11.4
+python-socketio==5.11.0
+pyperclip==1.8.2
+pyautogui==0.9.54
+requests==2.31.0
